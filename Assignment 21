@@ -1,0 +1,9 @@
+#PF-Tryout
+
+def generate_next_date(day,month,year):
+    #Start writing your code here
+    next_day=day+1
+    print(next_day,'-',month,'-',year)
+
+
+generate_next_date(22,3,2014)
